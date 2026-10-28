@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://isaackoi.github.io/website-20261028_004500-cool-cities/sitemap.xml

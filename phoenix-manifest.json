@@ -5,7 +5,7 @@
     "identity_source": "legacy_job_id",
     "network": "unassigned",
     "title": "Cool Cities",
-    "canonical_url": "",
+    "canonical_url": "https://isaackoi.github.io",
     "description": "Practical guides organized for fast browsing and comparison.",
     "primary_focus_id": "environment",
     "focus_ids": [
@@ -16,16 +16,16 @@
     "primary_topic_ids": [],
     "primary_subject_ids": []
   },
-  "release_id": "release-a8d593f9f93fa6b5ff5d",
+  "release_id": "release-c568c8026765cdd81528",
   "previous_release_id": "",
-  "generated_at": "2026-10-28T01:07:33Z",
+  "generated_at": "2026-10-28T01:41:08Z",
   "entity_entrypoints": [],
   "pages": [
     {
       "id": "urban-heat-c2-sample:page:836190d9a1b393ff97f5225f",
       "logical_id": "cool_roofs_reflect_2b8e51",
       "identity_source": "article_manifest",
-      "canonical_url": "/cool-roofs-and-reflective-surfaces/",
+      "canonical_url": "https://isaackoi.github.io/website-20261028_004500-cool-cities/cool-roofs-and-reflective-surfaces/",
       "title": "Cool Roofs and Reflective Surfaces: Turning Down the...",
       "summary": "A roof is a decision about sunlight. Every square metre of conventional dark roofing absorbs most of the solar energy that strikes it and converts that energy into heat — heat that flows into the rooms below, into the air above, and into the electricity bill of the building's owner.",
       "hierarchy": {
@@ -43,13 +43,13 @@
       "geography_ids": [],
       "content_fingerprint": "sha256:039f81991b15222fdd589d2067e1fbae2e4cb9e0b8f1466209a3804c88a4565e",
       "reconciliation_fingerprint": "sha256:f5058a59303cd3d0109f9f77b7edf1825fcc98d27dd7904c82dd3811ebeb7943",
-      "updated_at": "2026-10-28 00:52:44"
+      "updated_at": "2026-10-28 01:26:30"
     },
     {
       "id": "urban-heat-c2-sample:page:d97dc662d31ff33fd6135962",
       "logical_id": "mapping_city_hea_4c2e77",
       "identity_source": "article_manifest",
-      "canonical_url": "/mapping-the-heat/",
+      "canonical_url": "https://isaackoi.github.io/website-20261028_004500-cool-cities/mapping-the-heat/",
       "title": "Mapping the Heat: How Cities See, Predict and Manage...",
       "summary": "You cannot cool what you cannot see. For most of the twentieth century a city knew its temperature from a single airport sensor — an average over an airfield that resembled nothing in the city it nominally described.",
       "hierarchy": {
@@ -67,13 +67,13 @@
       "geography_ids": [],
       "content_fingerprint": "sha256:9fa42a078e63a8494b07ee09505888c27d889a90f6eb2e3632bddf951c89f7e1",
       "reconciliation_fingerprint": "sha256:8d0c7d5ba13c134e747472cf14ff383eb3ca0fb0cd36827d7874e959671e7974",
-      "updated_at": "2026-10-28 01:02:54"
+      "updated_at": "2026-10-28 01:36:39"
     },
     {
       "id": "urban-heat-c2-sample:page:c876a4954300204e1a039863",
       "logical_id": "trees_canopy_shad_3d9f62",
       "identity_source": "article_manifest",
-      "canonical_url": "/trees-and-canopy/",
+      "canonical_url": "https://isaackoi.github.io/website-20261028_004500-cool-cities/trees-and-canopy/",
       "title": "Trees, Canopy and Green Space: A City's Natural Air...",
       "summary": "Vegetation cools cities the way it cooled the land before cities existed: by turning sunlight into water vapour instead of heat, and by casting shade that interrupts the sun before pavement can absorb it.",
       "hierarchy": {
@@ -91,13 +91,13 @@
       "geography_ids": [],
       "content_fingerprint": "sha256:66e4f904967392c2b097a615a6af51f142fb9e033a20876a680055042f75c8c4",
       "reconciliation_fingerprint": "sha256:ca800fd5d50aaed9c626112ae5aa1a9db1e1d94cd74bf3493d72862bfb7868e3",
-      "updated_at": "2026-10-28 00:58:14"
+      "updated_at": "2026-10-28 01:31:51"
     },
     {
       "id": "urban-heat-c2-sample:page:f07c815707b0b3fec85cf09a",
       "logical_id": "urban_heat_islands_1f6a3c",
       "identity_source": "article_manifest",
-      "canonical_url": "/why-cities-run-hot/",
+      "canonical_url": "https://isaackoi.github.io/website-20261028_004500-cool-cities/why-cities-run-hot/",
       "title": "Why Cities Run Hot: The Urban Heat Island, Explained",
       "summary": "On a summer afternoon, the middle of a large city is almost always warmer than the fields just beyond its edge. This is not an illusion of traffic and noise: instruments measure it reliably, satellites photograph it from orbit, and electricity grids pay for it every hot afternoon.",
       "hierarchy": {
@@ -115,7 +115,7 @@
       "geography_ids": [],
       "content_fingerprint": "sha256:fb94aa311bf7f3e725abdd234e63ec937321704a7333074d492e0e9a649732c6",
       "reconciliation_fingerprint": "sha256:c1c6c41945ae1b4d333d79b0e0762cb6b534cd924733ef45850c3d0e629cc4a1",
-      "updated_at": "2026-10-28 00:52:03"
+      "updated_at": "2026-10-28 01:25:52"
     }
   ]
 }
