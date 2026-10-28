@@ -1,0 +1,119 @@
+{
+  "selection_strategy": "shared-scorer",
+  "ui_priority": "home-first",
+  "site_shape": {
+    "report_count": 4,
+    "max_level": 1,
+    "deep_report_count": 0,
+    "level_1_count": 4,
+    "level_counts": {
+      "1": 4
+    },
+    "max_children_any_node": 0,
+    "p90_children": 0,
+    "p90_topic_children": 0,
+    "avg_children": 0.0,
+    "primary_branch_count": 4,
+    "visible_nodes_depth_2": 4,
+    "visible_nodes_depth_3": 4,
+    "max_depth": 0,
+    "max_breadth": 4,
+    "breadth_by_depth": {
+      "0": 4
+    },
+    "p90_title_length": 11,
+    "root_density_tier": "dense",
+    "top_branch_density_counts": {
+      "sparse": 4,
+      "balanced": 0,
+      "dense": 0,
+      "very-dense": 0
+    },
+    "long_title_branch_count": 0,
+    "single_root_tree": false,
+    "topic_labels": [
+      "Why Cities Run Hot: The Urban Heat Island, Explained",
+      "Cool Roofs and Reflective Surfaces: Turning Down the...",
+      "Trees, Canopy and Green Space: A City's Natural Air...",
+      "Mapping the Heat: How Cities See, Predict and Manage..."
+    ]
+  },
+  "selected": {
+    "site_visual_identity": "editorial-atlas",
+    "site_visual_identity_source": "remote_model",
+    "site_visual_identity_confidence": "high",
+    "visual_profile": "editorial",
+    "layout_archetype": "magazine",
+    "home_layout_mode": "vertical",
+    "auto_home_layout_mode": "catalog",
+    "hierarchy_viz_mode": "tree-diagram",
+    "palette": "forge-slate",
+    "motif": "horizon"
+  },
+  "candidates": [
+    {
+      "profile": "editorial",
+      "layout": "magazine",
+      "home_score": 62,
+      "article_score": 22,
+      "interaction_score": 14,
+      "score": 4040,
+      "reasons": [
+        "small-site editorial hero bonus",
+        "magazine layout suits shallow sites",
+        "editorial tree-diagram candidate"
+      ]
+    },
+    {
+      "profile": "atlas",
+      "layout": "atlas",
+      "home_score": 32,
+      "article_score": 12,
+      "interaction_score": 16,
+      "score": 2280,
+      "reasons": [
+        "strong tree-diagram candidate"
+      ]
+    },
+    {
+      "profile": "editorial",
+      "layout": "dossier",
+      "home_score": 28,
+      "article_score": 16,
+      "interaction_score": 14,
+      "score": 2160,
+      "reasons": [
+        "small-site editorial hero bonus"
+      ]
+    },
+    {
+      "profile": "atlas",
+      "layout": "dossier",
+      "home_score": 12,
+      "article_score": 12,
+      "interaction_score": 16,
+      "score": 1280,
+      "reasons": []
+    },
+    {
+      "profile": "compact",
+      "layout": "atlas",
+      "home_score": 12,
+      "article_score": 12,
+      "interaction_score": 13,
+      "score": 1220,
+      "reasons": []
+    },
+    {
+      "profile": "compact",
+      "layout": "compact-grid",
+      "home_score": 4,
+      "article_score": 12,
+      "interaction_score": 13,
+      "score": 820,
+      "reasons": [
+        "dense grid weakens tree-diagram clarity"
+      ]
+    }
+  ]
+}

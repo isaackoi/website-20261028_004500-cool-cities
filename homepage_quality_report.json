@@ -1,0 +1,13 @@
+{
+  "audience_mode": "production",
+  "qa_mode_enabled": false,
+  "test_view_switcher_enabled": false,
+  "home_shape_variant": "vertical",
+  "home_shape_variant_auto": "catalog",
+  "home_shape_hierarchy_viz": "tree-diagram",
+  "home_shape_selection_strategy": "shared-scorer",
+  "copy_policy": "polished",
+  "hero_title": "Research Map",
+  "hero_description": "Browse the main routes through the research across major topics and focused guides.",
+  "weak_landing_copy": []
+}
